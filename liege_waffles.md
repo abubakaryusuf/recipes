@@ -41,7 +41,8 @@
 
 # Notes
 
-- This is a small amount of dough, so a hand mixer is enough for everything but the final kneading.
+- This is a small amount of dough, so mixing by hand is enough for everything but the final kneading.
+- A stand mixer isn't required, but is nice to have
 
 # Variations
 +50g chopped apples added after the dough has been kneaded and +15g flour to offset the liquid
