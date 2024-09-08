@@ -17,7 +17,7 @@
 - 1/2 teaspoon dutch process
 - 1/4 teaspoon nutmeg
 - 1/4 teaspoon cloves
-- 1/8 (or a pinch) of salt
+- 1/8 teaspoon (or a pinch) of salt
 
 ### Dry Ingredients
 - 250g all purpose flour
